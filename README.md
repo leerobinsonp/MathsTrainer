@@ -1,5 +1,5 @@
 # MathsTrainer
-Interactieve Rekennen Trainer
+Interactieve Rekennen Trainer geschrijven in Java met Swing.
 
 " 
 <b>Eisen van project:</b>
